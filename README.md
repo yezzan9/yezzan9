@@ -8,6 +8,7 @@
 />
 </a>
 
-![Seolranlee's GitHub stats](https://github-readme-stats.vercel.app/api?username=yezzan9&count_private=true&show_icons=true&theme=vue)
+![yezzang's GitHub stats](https://github-readme-stats.vercel.app/api?username=yezzan9&count_private=true&show_icons=true&theme=vue)
 
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=yezzan9)](https://github.com/yezzan9/velog-readme-stats)
 </div>
